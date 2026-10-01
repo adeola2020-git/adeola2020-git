@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Adeola 👋
 
-<!--
-**adeola2020-git/adeola2020-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior DevOps & Platform Engineer
 
-Here are some ideas to get you started:
+Azure Administrator (AZ-104) | Kubernetes (CKA) | Terraform | CI/CD | Azure | GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a cloud and DevOps engineer passionate about automation, infrastructure as code, Kubernetes, Azure cloud, and platform engineering.
+
+## Skills
+
+- Azure
+- Kubernetes
+- Terraform
+- Docker
+- GitHub Actions
+- GitLab CI/CD
+- Bash
+- PowerShell
+- Azure Monitor
+- Prometheus
+- Grafana
+
+## Current Focus
+
+- Platform Engineering
+- Azure Infrastructure
+- Kubernetes Operations
+- Terraform Modules
+- Observability & Monitoring
+
+## Featured Projects
+
+- AKS Production Cluster
+- Terraform Landing Zone
+- Azure Release Pipelines
+- Monitoring & Observability Stack
+
+## Certifications
+
+- Azure Administrator (AZ-104)
+- Azure Fundamentals (AZ-900)
+- Certified Kubernetes Administrator (CKA)
